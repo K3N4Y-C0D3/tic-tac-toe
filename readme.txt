@@ -15,4 +15,4 @@ obs.: CASO DE ALGUM ERRO USAR ESSES COMANDOS
 git config --global user.email "seu-email-cadastrado-no-git"
 git config --global user.name "seu-nome-no-git"
 
-Credits by: Kenay "K13" and JJog.dev
+Credits by: K3N4Y "K13" and JJog.dev
